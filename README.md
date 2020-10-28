@@ -20,9 +20,9 @@
 
 #### You can contact me: 
 
-<a href="mailto:ilGapone@yandex.ru" taeget="_blank"> My Email :mailbox: </a> ilGapone@yandex.ru
+<a href="mailto:ilGapone@yandex.ru" taeget="_blank"> My Email :mailbox: </a> - ilGapone@yandex.ru
 <br/>
-<a href="https://vk.com/id139610752" taeget="_blank"> Vkontakte :keyboard: </a>
+<a href="https://vk.com/id139610752" target="_blank"> Vkontakte :keyboard: </a>
 <br/>
 Or You can add me on Telegram,WhatsUp +7 925 761 00 18 :iphone:
 <br/>
