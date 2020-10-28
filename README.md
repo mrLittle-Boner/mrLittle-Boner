@@ -1,6 +1,6 @@
 # Hello everyone :wave: , my name is Ilia
 
-### I'am a self-tought junior frontend developer
+## I'am a self-tought junior frontend developer
 
 #### Set of tools and skills on my side (learning them throug work with them)
 
