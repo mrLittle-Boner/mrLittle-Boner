@@ -1,8 +1,9 @@
-### Hi there 👋
+# Hello everyone :wave: , my name is Ilia
 
-<!--
-**mrLittle-Boner/mrLittle-Boner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'am a junior frontend developer
 
+#### I know alredy : 
+HTML [<img width="20px" alt="html5"/>](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
