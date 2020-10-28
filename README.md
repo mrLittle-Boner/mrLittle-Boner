@@ -18,28 +18,6 @@
 <br>
 <br>
 
-```
-#### My Works :
-
-* Simple todo list
-  * [Code](https://github.com/mrLittle-Boner/mrlittle-boner.github.io/tree/master/Js1/Delishki)
-  * [Live]()
-* Simple budget tracker
-  * [Code](https://github.com/mrLittle-Boner/mrlittle-boner.github.io/tree/master/Js1/Delishki)
-  * [Live]()
-* Simple Landing page
-  * [Code](https://github.com/mrLittle-Boner/mrlittle-boner.github.io/tree/master/Js1/Delishki)
-  * [Live]()
-* Simple weather app
-  * [Code](https://github.com/mrLittle-Boner/mrlittle-boner.github.io/tree/master/Js1/Delishki)
-  * [Live]()
-* My big One 
-  * [Code](https://github.com/mrLittle-Boner/mrlittle-boner.github.io/tree/master/Js1/Delishki)
-  * [Live]()
-```
-  
-<br/>
-
 #### You can contact me: 
 
 <a href="mailto:ilGapone@yandex.ru" taeget="_blank"> My Email :mailbox: </a>
