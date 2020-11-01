@@ -14,8 +14,8 @@
 * Little Pug Skills (currently combat with) <img width="25px" align="center" src="https://camo.githubusercontent.com/a43de8ca816e78b1c2666f7696f449b2eeddbeca/68747470733a2f2f63646e2e7261776769742e636f6d2f7075676a732f7075672d6c6f676f2f656563343336636565386664396431373236643738333963626539396431663639343639326330632f5356472f7075672d66696e616c2d6c6f676f2d5f2d636f6c6f75722d3132382e737667" alt="Pug logo" />
 * Some React knowledge <img width="25px" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React logo" />
 * Photoshop <img width="25px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="React logo" />
-* Figma <img width="25px" align="center" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="Figma logo" />
-* Avacode <img width="25px" align="center" src="https://seeklogo.com/images/A/avocode-logo-3D4AFF518D-seeklogo.com.png" alt="Avacode logo" />
+* Figma <img width="19px" align="center" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="Figma logo" />
+* Avacode <img width="19px" align="center" src="https://seeklogo.com/images/A/avocode-logo-3D4AFF518D-seeklogo.com.png" alt="Avacode logo" />
 
 <br>
 <br>
