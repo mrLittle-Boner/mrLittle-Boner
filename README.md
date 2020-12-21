@@ -1,4 +1,4 @@
-# Hello everyone :wave: , my name is Ilia
+# Hello everyone :wave:
 
 ## I'am a self-tought junior frontend developer
 
