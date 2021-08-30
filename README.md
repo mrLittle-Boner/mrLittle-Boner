@@ -7,7 +7,6 @@
 * HTML <img width="25px" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5 logo"/>
 * CSS <img width="25px" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS logo" />
 * JavaScript <img width="20px" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript logo" />
-* Git <img width="35px" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git logo" />
 * GitHub <img width="25px" align="center" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="GitHub logo" />
 * Webpack <img width="35px" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="webpack logo" />
 * Figma <img width="19px" align="center" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="Figma logo" />
