@@ -22,5 +22,5 @@
 <br/>
 <a href="https://vk.com/id139610752" target="_blank"> Vkontakte :keyboard: </a>
 <br/>
-Or You can add me on Telegram,WhatsUp +7 925 761 00 18 :iphone:
+Or You can add me on Telegram,WhatsUp +7 (977) 804-10-32 :iphone:
 <br/>
