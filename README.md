@@ -12,6 +12,7 @@
 * Figma <img width="19px" align="center" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="Figma logo" />
 * Avacode <img width="19px" align="center" src="https://seeklogo.com/images/A/avocode-logo-3D4AFF518D-seeklogo.com.png" alt="Avacode logo" />
 * Vue <img width="19px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" alt="Vue logo" />
+* React <img width="29px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
 
 
 <br>
